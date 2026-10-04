@@ -3,6 +3,23 @@
 Este repositorio contiene la documentación y planificación estratégica para la implementación de un sistema de información (ERP y POS) diseñado específicamente para **Whopper King**, un restaurante ubicado en Pasto, Colombia. El objetivo principal es digitalizar y optimizar sus procesos operativos, financieros y de inventario, sentando las bases para futuros modelos de análisis de datos e inteligencia artificial.
 
 ---
+##  Links de areas de trabajo:
+notion:
+https://app.notion.com/p/Proyecto-Sistemas-de-Informaci-n-dc9f7e280ed4823d81010189b9ee6000
+
+Mapa de Experiencia de Usuario:
+https://docs.google.com/spreadsheets/d/19mdH4KjPX7gglhLxKqk-S8mid6bJlW58XvoNvXnOoJ8/edit?gid=0#gid=0
+
+Hito_1_Matriz:
+https://unaledu-my.sharepoint.com/:x:/g/personal/juamador_unal_edu_co/IQClhJNqJNXwTZuEifLOQLZOAb0R7l4E2wlS953NadApDZY?e=wIMf7Q&or=WORD-WEB.BODY.NT&ct=1791068887614
+
+Hito 1:
+https://unaledu-my.sharepoint.com/:w:/g/personal/juamador_unal_edu_co/IQAfCkqXU9nBR4EYZaIEN_bLAUN_Crxkbu8_wi-Or0behM4?e=I8ljkm&or=WORD-WEB.BODY.NT&ct=1791068883877
+
+Entregable estructura:
+https://unaledu-my.sharepoint.com/:w:/g/personal/juamador_unal_edu_co/IQBo9fJk-2CVRZhiN08DpgCdAfrLIwVQZRCTy2jkFn9TX7k?rtime=V2r-yaIh30g
+
+---
 
 ## 1.1. ¿Quién es Whopper King? (Historia y Propuesta de Valor)
 
