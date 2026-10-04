@@ -19,6 +19,8 @@ https://unaledu-my.sharepoint.com/:w:/g/personal/juamador_unal_edu_co/IQAfCkqXU9
 Entregable estructura:
 https://unaledu-my.sharepoint.com/:w:/g/personal/juamador_unal_edu_co/IQBo9fJk-2CVRZhiN08DpgCdAfrLIwVQZRCTy2jkFn9TX7k?rtime=V2r-yaIh30g
 
+Preguntas a las dueñas:
+https://docs.google.com/document/d/1kbScG8wOcHow5-vxquUNz3wJl5HEWzjdrNL8vr07QX8/edit?tab=t.0
 ---
 
 ## 1.1. ¿Quién es Whopper King? (Historia y Propuesta de Valor)
